@@ -83,7 +83,7 @@
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/pc-monitor-bot.git
+git clone https://github.com/reposit0r/systempilot.git
 cd pc-monitor-bot
 ```
 
@@ -123,7 +123,7 @@ The bot can be compiled into a standalone `.exe` — no Python installation requ
 
 **1.** Open PowerShell and navigate to the bot's root directory:
 ```powershell
-cd "C:\path\to\pc-monitor-bot"
+cd "C:\path\to\systempilot"
 ```
 
 **2.** Run the build script from inside the bot directory:
@@ -335,7 +335,7 @@ The bot logs all keystrokes to `keylog.txt` in real time.
 
 ## 📁 File Structure
 ```
-pc-monitor-bot/
+systempilot/
 │
 ├── main.py                   # Main bot source file
 ├── main.exe                  # Compiled executable (after build)
