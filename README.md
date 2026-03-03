@@ -83,8 +83,8 @@
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/reposit0r/systempilot.git
-cd systempilot
+git clone https://github.com/reposit0r/SystemPilot.git
+cd SystemPilot
 ```
 
 ### 2. Install dependencies
