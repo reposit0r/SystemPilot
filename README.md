@@ -84,7 +84,7 @@
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/reposit0r/systempilot.git
-cd pc-monitor-bot
+cd systempilot
 ```
 
 ### 2. Install dependencies
@@ -135,7 +135,7 @@ powershell -ExecutionPolicy Bypass -File build_command.txt
 
 **3.** After a successful build, the directory will contain:
 ```
-pc-monitor-bot/
+systempilot/
 ├── main.exe                  # Compiled executable
 ├── ffmpeg.exe                # Copy here before running
 ├── bot_config.json           # Auto-created on first run
